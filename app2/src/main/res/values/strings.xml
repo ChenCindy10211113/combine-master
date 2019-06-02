@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">功能首頁</string>
+
+
+    <string-array name="農地編號">
+        <item>農地編號…</item>
+        <item>a01</item>
+        <item>b01</item>
+        <item>b02</item>
+        <item>c01</item>
+        <item>d01</item>
+    </string-array>
+
+    <string-array name="月份">
+        <item>月份…</item>
+        <item>01月</item>
+        <item>02月</item>
+        <item>03月</item>
+        <item>04月</item>
+        <item>05月</item>
+        <item>06月</item>
+        <item>07月</item>
+        <item>08月</item>
+        <item>09月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //登入用(暫定)
+    <string-array name="sex_list">
+        <item>女</item>
+        <item>男</item>
+    </string-array>
+    <string name="spn_sex_list_prompt">請選擇性別</string>
+    <string name="title_activity_home2">home2</string>
+</resources>
+
